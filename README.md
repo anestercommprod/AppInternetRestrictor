@@ -1,7 +1,7 @@
 # App Internet Restrictor
 Restrict Windows Applications from being able to access internet, both in and outbound connections with a simple command line interface.
 
-![image](https://github.com/anestercommprod/AppInternetRestrictor/assets/108794312/257197f5-4c88-4774-9e77-eb3c41fbb750)
+![image](https://github.com/anestercommprod/AppInternetRestrictor/assets/108794312/ed4784d5-a4d6-4d57-be05-7c9a254d79b4)
 
 # Steps to use:
 1. Download compiled application (file `AppRestricter.exe`) or compile the code by yourself
