@@ -94,8 +94,8 @@ namespace FirewallAppBlockerConsole
                             " -add    | Create a new restricting rule for a program\n" +
                             " -remove | Remove already existing rule for a program\n" +
                             " -list   | Display current block-list of the programs added through this app\n" +
-                            " -exit   | Close the application." +
-                            " -help   | Show all available commands\n\n" +
+                            " -help   | Show all available commands\n" +
+                            " -exit   | Close the application.\n\n" +
                             "Developed by Alexander Nester, github.com/anestercommprod\n");
         }
 
